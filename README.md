@@ -12,8 +12,8 @@ Python 2.7 ドキュメントの翻訳が完了しています。
 古いドキュメントは [こちら](http://www.python.jp/pub/doc_jp/) からダウンロードできます。
 
 ## 問題報告 ##
-[Issues](http://code.google.com/p/python-doc-ja/issues/entry) から登録をお願いします。
-(要 Google アカウント)
+[Issues](https://github.com/python-doc-ja/python-doc-ja/issues) から登録をお願いします。
+(要 GitHub アカウント)
 
 ## 翻訳に参加したい方は ##
 [Transifex](https://www.transifex.com/) にサインインし、 [python-34-ja](https://www.transifex.com/projects/p/python-34-ja/) から翻訳してください。
