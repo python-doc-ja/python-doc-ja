@@ -5,11 +5,8 @@ Pythonのドキュメントを日本語に翻訳するプロジェクトです�
 
 [ドキュメント](http://docs.python.jp/3/)
 
-Python 2.7 ドキュメントの翻訳が完了しています。
+Python 2.7 (2.7.2時点) のドキュメントの翻訳が完了しています。
 [オンラインで見る](http://docs.python.jp/2/)
-[ダウンロードする](http://code.google.com/p/python-doc-ja/downloads/list)
-
-古いドキュメントは [こちら](http://www.python.jp/pub/doc_jp/) からダウンロードできます。
 
 ## 問題報告 ##
 [Issues](https://github.com/python-doc-ja/python-doc-ja/issues) から登録をお願いします。
@@ -20,7 +17,7 @@ Python 2.7 ドキュメントの翻訳が完了しています。
 
 また、プロジェクトの連絡は [連絡用メーリングリスト](http://www.python.jp/mailman/listinfo/python-doc-jp) で行いますので、登録してください。
 
-翻訳手順は、HowToTransifex を参照してください。
+翻訳手順は、[HowToTransifex](https://github.com/python-doc-ja/python-doc-ja/wiki/HowToTransifex) を参照してください。
 
 ## 著作権・ライセンスについて ##
 
