@@ -17,7 +17,7 @@ Python 2.7 (2.7.2時点) のドキュメントの翻訳が完了しています�
 
 また、プロジェクトの連絡は [連絡用メーリングリスト](http://www.python.jp/mailman/listinfo/python-doc-jp) で行いますので、登録してください。
 
-翻訳手順は、[HowToTransifex](https://github.com/python-doc-ja/python-doc-ja/wiki/HowToTransifex) を参照してください。
+翻訳手順は、 [[How To Transifex|HowToTransifex]] を参照してください。
 
 ## 著作権・ライセンスについて ##
 
