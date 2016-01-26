@@ -1,7 +1,7 @@
 # Python ドキュメント日本語訳プロジェクト
 
 Pythonのドキュメントを日本語に翻訳するプロジェクトです。
-現在、Python 3.4 のドキュメントに対応するために活動中です。
+現在、Python 3.5 のドキュメントに対応するために活動中です。
 
 [ドキュメント](http://docs.python.jp/3/)
 
@@ -13,7 +13,7 @@ Python 2.7 (2.7.2時点) のドキュメントの翻訳が完了しています�
 (要 GitHub アカウント)
 
 ## 翻訳に参加したい方は ##
-[Transifex](https://www.transifex.com/) にサインインし、 [python-34-ja](https://www.transifex.com/projects/p/python-34-ja/) から翻訳してください。
+[Transifex](https://www.transifex.com/) にサインインし、 [python-35-ja](https://www.transifex.com/python-doc-ja/python-35/) から翻訳してください。
 
 また、プロジェクトの連絡は [連絡用メーリングリスト](http://www.python.jp/mailman/listinfo/python-doc-jp) で行いますので、登録してください。
 
