@@ -15,7 +15,7 @@ Python 2.7 (2.7.2時点) のドキュメントの翻訳が完了しています�
 ## 翻訳に参加したい方は ##
 [Transifex](https://www.transifex.com/) にサインインし、 [python-35](https://www.transifex.com/python-doc/python-35/) から翻訳してください。
 
-また、プロジェクトの連絡は [連絡用メーリングリスト](https://groups.google.com/forum/#!forum/python-doc-jp) で行いますので、登録してください。
+また、プロジェクトの連絡は [連絡用メーリングリスト](https://groups.google.com/forum/#!forum/python-doc-jp) で行いますので、登録してください。また、[Python.jp Slack Team](http://www.python.jp/community/#python-jp-slack) の `#python-doc-ja` チャンネルもあります。
 
 翻訳手順は、 [HowToTransifex](https://github.com/python-doc-ja/python-doc-ja/wiki/HowToTransifex) を参照してください。
 
