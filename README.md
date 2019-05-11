@@ -3,10 +3,10 @@
 Pythonのドキュメントを日本語に翻訳するプロジェクトです。
 現在、Python 3.7 のドキュメントに対応するために活動中です。
 
-[ドキュメント](http://docs.python.jp/3/)
+[ドキュメント](http://docs.python.org/ja/3/)
 
 Python 2.7 (2.7.2時点) のドキュメントの翻訳が完了しています。
-[オンラインで見る](http://docs.python.jp/2/)
+[オンラインで見る](http://docs.python.org/ja/2.7/)
 
 ## 問題報告 ##
 [Issues](https://github.com/python-doc-ja/python-doc-ja/issues) から登録をお願いします。
