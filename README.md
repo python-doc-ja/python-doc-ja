@@ -1,12 +1,12 @@
 # Python ドキュメント日本語訳プロジェクト
 
 Pythonのドキュメントを日本語に翻訳するプロジェクトです。
-現在、Python 3.11 のドキュメントに対応するために活動中です。
 
-[ドキュメント](http://docs.python.org/ja/3/)
+現在はPython 3.11 のドキュメントに対応するために活動中で、翻訳率は80%を超えています。
 
-Python 2.7 (2.7.2時点) のドキュメントの翻訳が完了しています。
-[オンラインで見る](http://docs.python.org/ja/2.7/)
+[Python 3 ドキュメント日本語版](http://docs.python.org/ja/3/)
+
+[原文はこちら](http://docs.python.org/3/)
 
 ## 問題報告 ##
 [Issues](https://github.com/python-doc-ja/python-doc-ja/issues) から登録をお願いします。
